@@ -1,3 +1,5 @@
+**NAME:SANDEEP**
+**REG NO:24900896**
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
@@ -35,6 +37,10 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
+![image](https://github.com/user-attachments/assets/7086833a-7abb-4e86-8fad-0c528ef366f0)
+
+
+
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -48,6 +54,9 @@ Figure -02 HALF Subtractor
 5.	For different input combinations generate the timing diagram.
 
 
+![image](https://github.com/user-attachments/assets/e9074519-cc31-4b0d-b386-5ce1786054ae)
+
+
 **Program:**
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
@@ -56,6 +65,11 @@ Developed by: RegisterNumber:*/
 
 **RTL Schematic**
 
+![image](https://github.com/user-attachments/assets/f51f8a40-c844-48ce-8f66-ba0e36612620)
+
 **Output/TIMING Waveform**
 
-**Result:**
+![image](https://github.com/user-attachments/assets/0622003f-acf7-4936-8f48-0b10bb3308ad)
+
+
+**Result:**Thus,We designed a half adder and half subtractor circuit and verified its truth table in Quartus using Verilog programming
