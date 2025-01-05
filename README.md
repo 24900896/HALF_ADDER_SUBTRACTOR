@@ -2,7 +2,7 @@
 
 **REG NO:24900896**
 
-# HALF_ADDER_SUBTRACTOR
+**EX:3 HALF ADDER SUBTRACTOR**
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
